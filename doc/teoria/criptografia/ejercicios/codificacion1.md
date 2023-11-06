@@ -33,27 +33,43 @@ Pbqvtb ebgngvib
 
 ---
 #### Respuestas:
-Todos hechos en CyberChef salvo anotaciones.
+##### Todos hechos en CyberChef salvo anotaciones.
 ##### Base64:
-```Esto es base 64```
+```
+Esto es base 64
+```
 ##### Base32:
-```Texto en base 32```
+```
+Texto en base 32
+```
 ##### Hexadecimal:
-```Texto variado```
+```
+Texto variado
+```
 ##### Cifrado Cesar:
 Procedimiento:
-Introducido en https://www.dcode.fr/chiffre-cesar
+Introducido en [dcode.fr](https://www.dcode.fr/chiffre-cesar):
+```
 - Config:
     - Desplazamiento/Clave(número): 2
     - Añadido la Ñ a alfabeto personalizado.
+```
 
 Resultado:
-```Ser no no ser, esa es ma pregunta```
+```
+Ser no no ser, esa es ma pregunta
+```
 ##### ROT13:
-```Codigo rotativo```
+```
+Codigo rotativo
+```
 
 ##### Braille:
-```UN POCO MAS DIFICIL```
+```
+UN POCO MAS DIFICIL
+```
 
 ##### Morse:
-```ELVIEJOMORSE```
+```
+ELVIEJOMORSE
+```
